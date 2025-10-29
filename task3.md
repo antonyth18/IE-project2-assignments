@@ -1,4 +1,4 @@
-## Enhanced Proposal: File Versioning and Recovery Module 🛡️
+## Enhanced Proposal: File Versioning and Recovery Module
 
 This module enhances the website's functionality by providing a vital safety net for user data, moving beyond simple storage to offering robust data integrity and disaster recovery.
 
